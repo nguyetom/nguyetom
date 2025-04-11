@@ -5,7 +5,8 @@
 
 
 🔭 computer science student sharing about my journey and learnings in tech<br/>
-🌱 I’m currently learning web development<br/>
+🌱 I’m currently learning web development(JavaScript, HTML and CSS)<br/>
+🤝 I’m looking for an opportunity to improve my programming skills<br/>
 📫 How to reach me: nguyetom@tu-berlin.de<br/>
  
 
